@@ -1,8 +1,13 @@
 # Workspace
 
-Code behind the deck for: http://mihaicernusca.com/off-balance
+"No computer person should ever use Powerpoint" 
 
-Disclaimer: this does just what I needed to give the talk - you can run into walls no doubt - not production code!
+— Alan Kay
+
+Tool behind the deck for: http://mihaicernusca.com/off-balance
+
+
+## Keyboard shortcuts
 
 `Enter` to enter edit mode
 
@@ -30,3 +35,7 @@ To save your changes:
 `window.localStorage.clear()` to delete local changes
 
 see `models/persistence.js`
+
+
+Disclaimer: this does just what I needed to give the talk - you can run into walls no doubt - not production code!
+
